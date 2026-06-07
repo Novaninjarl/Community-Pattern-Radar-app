@@ -1,0 +1,35 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*.sqlite3
+db.sqlite3
+.env
+.env.*
+*.log
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Django static/media
+staticfiles/
+media/
+
+# Node / React
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.vite/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local uploads / temporary files
+*.zip
+*.tar
+*.gz
